@@ -1,6 +1,6 @@
 # Olá! Eu sou João Pedro Leite ✋
 
-## Sou estudante de programação procurando, adoro o mundo de desinvolvimento de tecnologias, e atualmente procuro me tornar um desenvolvedor FullStack profissional.
+## Sou estudante de programação, adoro o mundo de desinvolvimento de tecnologias, e atualmente procuro me tornar um desenvolvedor FullStack profissional.
 #
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-leite-396948265/)
 
