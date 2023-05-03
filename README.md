@@ -3,7 +3,7 @@
 ## Sou estudante de programação, adoro o mundo de desinvolvimento de tecnologias, e atualmente procuro me tornar um desenvolvedor FullStack profissional.
 
 
-# Tecnologias que eu uso no meu dia a dia
+### Tecnologias que eu uso no meu dia a dia:
 
 <div style="display: inline_block">
     <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
